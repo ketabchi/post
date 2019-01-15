@@ -1,0 +1,155 @@
+[{
+	"code": "1",
+	"name": "تهران",
+	"eName": "‍‍Tehran"
+},
+{
+	"code": "2",
+	"name": "گیلان",
+	"eName": "Gilan"
+},
+{
+	"code": "3",
+	"name": "آذربایجان شرقی",
+	"eName": "Azarbayejan sharghi"
+},
+{
+	"code": "4",
+	"name": "خوزستان",
+	"eName": "Khozestan"
+},
+{
+	"code": "5",
+	"name": "فارس",
+	"eName": "Fars"
+},
+{
+	"code": "6",
+	"name": "اصفهان",
+	"eName": "Esfehan"
+},
+{
+	"code": "7",
+	"name": "خراسان رضوی",
+	"eName": "Khorasan razavi"
+},
+{
+	"code": "8",
+	"name": "قزوین",
+	"eName": "Gazvin"
+},
+{
+	"code": "9",
+	"name": "سمنان",
+	"eName": "Semnan"
+},
+{
+	"code": "10",
+	"name": "قم",
+	"eName": "Qom"
+},
+{
+	"code": "11",
+	"name": "مرکزی",
+	"eName": "Markazi"
+},
+{
+	"code": "12",
+	"name": "زنجان",
+	"eName": "Zanjan"
+},
+{
+	"code": "13",
+	"name": "مازندران",
+	"eName": "Mazandaran"
+},
+{
+	"code": "14",
+	"name": "گلستان",
+	"eName": "Golestan"
+},
+{
+	"code": "15",
+	"name": "اردبیل",
+	"eName": "Ardebil"
+},
+{
+	"code": "16",
+	"name": "آذربایجان غربی",
+	"eName": "Azarbayejan Gharbi"
+},
+{
+	"code": "17",
+	"name": "همدان",
+	"eName": "Hamedan"
+},
+{
+	"code": "18",
+	"name": "کردستان",
+	"eName": "Kordestan"
+},
+{
+	"code": "19",
+	"name": "کرمانشاه",
+	"eName": "Kermanshah"
+},
+{
+	"code": "20",
+	"name": "لرستان",
+	"eName": "Lorestan"
+},
+{
+	"code": "21",
+	"name": "بوشهر",
+	"eName": "Booshehr"
+},
+{
+	"code": "22",
+	"name": "کرمان",
+	"eName": "Kerman"
+},
+{
+	"code": "23",
+	"name": "هرمزگان",
+	"eName": "Hormozgan"
+},
+{
+	"code": "24",
+	"name": "چهارمحال و بختیاری",
+	"eName": "Chararmahal \u0026 bakhtiyari"
+},
+{
+	"code": "25",
+	"name": "یزد",
+	"eName": "Yazd"
+},
+{
+	"code": "26",
+	"name": "سیستان و بلوچستان",
+	"eName": "Sistan \u0026 baloochestan"
+},
+{
+	"code": "27",
+	"name": "ایلام",
+	"eName": "Ilam"
+},
+{
+	"code": "28",
+	"name": "کهگیلویه و بویراحمد",
+	"eName": "Kohgilooyeh \u0026 boyerahmad"
+},
+{
+	"code": "29",
+	"name": "خراسان شمالی",
+	"eName": "Khorasan shomali"
+},
+{
+	"code": "30",
+	"name": "خراسان جنوبی",
+	"eName": "Khorasan jonobi"
+},
+{
+	"code": "31",
+	"name": "البرز",
+	"eName": "Alborz"
+}]
